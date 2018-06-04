@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://i.imgur.com/1LgSrzr.png">
+  <img src="https://i.imgur.com/r2BD4Yq.jpg">
 </p>
+
+**Exorsium Bug Tracker**
 
 Hello community, 
 
