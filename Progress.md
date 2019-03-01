@@ -24,6 +24,7 @@ Available Race :
 <p align="center">
 <img src="https://wow.zamimg.com/images/wow/icons/large/inv_trinket_naxxramas06.jpg"> Vanilla Instance
   </p>
+  
 * [ ] Ragefire Chasm
 - 
 * [ ] Deadmines
