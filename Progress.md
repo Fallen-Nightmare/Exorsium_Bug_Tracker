@@ -17,6 +17,7 @@ Available Race :
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_bloodelf_male.jpg"> Blood Elf
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_orc_male.jpg"> Orc
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_tauren_male.jpg"> Tauren
+
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_troll_male.jpg"> Troll
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_scourge_male.jpg"> Unded
 
