@@ -23,9 +23,9 @@ Available Race :
 
 <img src="https://wow.zamimg.com/images/wow/icons/large/achievement_boss_kelthuzad_01.jpg"> Vanilla Instance
   
-* [ ] Ragefire Chasm
+<img src="https://wow.zamimg.com/images/wow/icons/large/spell_shadow_summonfelguard.jpg"> * [ ] Ragefire Chasm
 - 
-* [ ] Deadmines
+<img src="https://wow.zamimg.com/images/wow/icons/large/achievement_boss_edwinvancleef.jpg"> * [ ] Deadmines
 -
 * [ ] Wailing Caverns
 -
