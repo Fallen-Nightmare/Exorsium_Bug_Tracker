@@ -22,7 +22,7 @@ Available Race :
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_scourge_male.jpg"> Unded
 
 <p align="center">
-<img src="https://wow.zamimg.com/images/wow/icons/large/Achievement_Boss_KelThuzad_01.jpg"> Vanilla Instance
+<img src="https://wow.zamimg.com/images/wow/icons/large/achievement_boss_kelthuzad_01.jpg"> Vanilla Instance
   </p>
   
 * [ ] Ragefire Chasm
