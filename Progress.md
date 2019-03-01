@@ -5,7 +5,7 @@
 Fallen Nightmare Progress :
 
 Available Race :
-https://wow.zamimg.com/images/wow/icons/small/race_draenei_male.jpg Draenei
+<img src=https://wow.zamimg.com/images/wow/icons/small/race_draenei_male.jpg"> Draenei
 
 https://wow.zamimg.com/images/wow/icons/small/race_dwarf_male.jpg Dwarf
 
@@ -19,9 +19,7 @@ https://wow.zamimg.com/images/wow/icons/small/race_pandaren_male.jpg Pandaren
 
 https://wow.zamimg.com/images/wow/icons/small/race_goblin_male.jpg Goblin
 
-https://heroes-wow.com/template/style/images/stats/18-0.gifForest Troll
-
-https://wow.zamimg.com/images/wow/icons/small/race_bloodelf_male.jpgBlood Elf
+https://wow.zamimg.com/images/wow/icons/small/race_bloodelf_male.jpg Blood Elf
 
 https://wow.zamimg.com/images/wow/icons/small/race_orc_male.jpg Orc
 
