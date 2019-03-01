@@ -19,7 +19,7 @@ Available Race :
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_pandaren_male.jpg"> Pandaren
 
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_goblin_male.jpg"> Goblin
-
+<img src="https://wow.zamimg.com/images/wow/icons/small/race_worgen_male.jpg"> Worgen
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_bloodelf_male.jpg"> Blood Elf
 
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_orc_male.jpg"> Orc
