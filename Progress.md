@@ -7,27 +7,17 @@ Fallen Nightmare Progress :
 Available Race :
 
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_draenei_male.jpg"> Draenei
-
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_dwarf_male.jpg"> Dwarf
-
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_human_male.jpg"> Human
-
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_nightelf_male.jpg"> Night Elf
-
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_draenei_male.jpg"> Draenei
-
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_pandaren_male.jpg"> Pandaren
-
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_goblin_male.jpg"> Goblin
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_worgen_male.jpg"> Worgen
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_bloodelf_male.jpg"> Blood Elf
-
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_orc_male.jpg"> Orc
-
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_tauren_male.jpg"> Tauren
-
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_troll_male.jpg"> Troll
-
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_scourge_male.jpg"> Unded
 
 Vanilla Instance
