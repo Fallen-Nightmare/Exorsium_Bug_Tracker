@@ -21,7 +21,9 @@ Available Race :
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_troll_male.jpg"> Troll
 <img src="https://wow.zamimg.com/images/wow/icons/small/race_scourge_male.jpg"> Unded
 
-Vanilla Instance
+<p align="center">
+<img src="https://wow.zamimg.com/images/wow/icons/large/inv_trinket_naxxramas06.jpg"> Vanilla Instance
+  </p>
 * [ ] Ragefire Chasm
 - 
 * [ ] Deadmines
